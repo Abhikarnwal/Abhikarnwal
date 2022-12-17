@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/108892482?v=4" border-radius="50%" align="center" height="400" width="500" />
+<img src="https://avatars.githubusercontent.com/u/108892482?v=4"  style= "border-radius:50%" align="center" height="400" width="500" />
 </div>  
   
 
