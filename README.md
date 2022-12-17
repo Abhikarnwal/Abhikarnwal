@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 600" height="200" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" background-color= "black"
+    color= "white" align="center" style="width: 600" height="200" />
 </div>  
   
 
