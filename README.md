@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" background-color= "black"
-    color= "white" align="center" style="width: 600" height="200" />
-</div>  
+<h1 align="center">Hi 👋, I'm Abhinav Karnwal</h1>
   
 
 <div align="center">
