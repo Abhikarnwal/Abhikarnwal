@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhinav Karnwal</h1>
   
 
-<div align="center"  style= "border-radius:50%">
-<img src="https://avatars.githubusercontent.com/u/108892482?v=4"  align="center" height="400" width="500" />
+<div align="center" >
+<img  style= "border-radius:50%" src="https://avatars.githubusercontent.com/u/108892482?v=4"  align="center" height="400" width="500" />
 </div>  
   
 
