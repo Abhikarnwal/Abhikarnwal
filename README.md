@@ -9,14 +9,24 @@
 ### <div align="center">I'm Abhinav, a passionate Full Stack Developer from India</div>  
   
 
-- 🌱 I’m currently learning Full Stack Web Development From Masai School  
-  
+- 🤝 Group Project 1 [Disney+ Hotstar](https://anjali280.github.io/hotstart_clone_/)
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- 🤝 Group Project 2 [Aha Video](https://ahavideoclone.vercel.app/)
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- 🤝 Group Project 3 [OYO Rooms](https://oyo-rooms-replica.netlify.app/)
+
+- 🤝 Group Project 4 [Shine.com](https://shine-akash.netlify.app/)
+
+
+- 👨‍💻 All of my projects are available at [https://abhinav-karnwal-portfolio.netlify.app/](https://abhinav-karnwal-portfolio.netlify.app/)
+
+
+- 📫 How to reach me **Abhinav.karnwal84@rediffmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/12G10KeaqBg-J-2-GeF-fQB76cOW1q-2d/view?usp=sharing](https://drive.google.com/file/d/12G10KeaqBg-J-2-GeF-fQB76cOW1q-2d/view?usp=sharing)
+
+- ⚡ Fun fact **The First Computer Virus Was A Creeper**
+
 
 <br/>  
 
