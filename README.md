@@ -3,7 +3,7 @@
 <img  src="https://github.com/Abhikarnwal/Abhikarnwal/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.jpg"   />
   
   
-# 💫 About Me:
+# 💫 About Me: 
  Hi,  I'm a passionate full stack developer with expertise in  React, Redux, MongoDB, Express, Node.js, and more.<br> I'm committed to building innovative solutions that positively impact people's lives. <br> As a developer, I believe in the power of collaboration and open-source software. <br> I'm always eager to contribute to exciting projects, learn new technologies, and share my knowledge with others. <br> I'm a strong communicator and a team player who values transparency, empathy, and respect.<br><br>
  
   <img align="right" src="https://github.com/Abhikarnwal/Abhikarnwal/blob/main/screen%20open%20(1).gif" height="400" width="400" />
