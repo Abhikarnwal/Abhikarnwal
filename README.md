@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **Abhinav.karnwal84@rediffmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12G10KeaqBg-J-2-GeF-fQB76cOW1q-2d/view?usp=sharing](https://drive.google.com/file/d/12G10KeaqBg-J-2-GeF-fQB76cOW1q-2d/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1D_C2n1xQu_KqtYEe9bqQZF14J1568CuL/view?usp=sharing)
 
 <br/>  
 
