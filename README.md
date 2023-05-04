@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhinav Karnwal</h1>
-  
-<div align="center" >
-<img  style= "border-radius:50%" src="https://avatars.githubusercontent.com/u/108892482?v=4"  align="center" height="400" width="500" />
-</div>  
-  
 
+<img  src="https://github.com/Abhikarnwal/Abhikarnwal/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.jpg"   />
+  
+  
 # 💫 About Me:
- Hi,  I'm a passionate software developer with expertise in  React, Redux, MongoDB, Express, Node.js, and more.<br> I'm committed to building innovative solutions that positively impact people's lives. <br> As a developer, I believe in the power of collaboration and open-source software. <br> I'm always eager to contribute to exciting projects, learn new technologies, and share my knowledge with others. <br> I'm a strong communicator and a team player who values transparency, empathy, and respect.<br><br> 💼 My Portfolio https://abhinav-karnwal-portfolio.netlify.app/<br><br>🔭 I’m currently working on Full Stack Project<br><br>👯 I’m looking to collaborate on Front-End and Back-End Project<br><br>🤝 I’m available for freelancing.<br><br>🌱 I’m currently learning MERN & Data Structure and Algorithms<br><br>💬 Ask me about JavaScript and MERN Stack<br><br>⚡ Fun fact: The first computer mouse was made out of wood? <br>  In 1964, Douglas Engelbart invented the first prototype of the computer mouse, <br>  which was made out of wood and had two wheels.<br>
+ Hi,  I'm a passionate software developer with expertise in  React, Redux, MongoDB, Express, Node.js, and more.<br> I'm committed to building innovative solutions that positively impact people's lives. <br> As a developer, I believe in the power of collaboration and open-source software. <br> I'm always eager to contribute to exciting projects, learn new technologies, and share my knowledge with others. <br> I'm a strong communicator and a team player who values transparency, empathy, and respect.<br><br>
+ 
+  <img align="right" src="https://github.com/Abhikarnwal/Abhikarnwal/blob/main/screen%20open%20(1).gif" height="300" width="400" />
+ 
+ 💼 My Portfolio https://abhinav-karnwal-portfolio.netlify.app/<br><br>🔭 I’m currently working on Full Stack Project<br><br>👯 I’m looking to collaborate on Front-End and Back-End Project<br><br>🤝 I’m available for freelancing.<br><br>🌱 I’m currently learning MERN & Data Structure and Algorithms<br><br>💬 Ask me about JavaScript and MERN Stack<br><br>⚡ Fun fact: The first computer mouse was made out of wood? <br>  In 1964, Douglas Engelbart invented the first prototype of the computer mouse, <br>  which was made out of wood and had two wheels.<br>
   
 
 - 🤝 Group Project 1 [Disney+ Hotstar](https://anjali280.github.io/hotstart_clone_/)
@@ -16,7 +18,7 @@
 - 🤝 Group Project 3 [OYO Rooms](https://oyo-rooms-replica.netlify.app/)
 
 - 🤝 Group Project 4 [Shine.com](https://shine-akash.netlify.app/)
-
+  
 
 - 📫 How to reach me **Abhinav.karnwal84@rediffmail.com**
 
