@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav Karnwal</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Abhinav Karnwal</h1>
 
 <img  src="https://github.com/Abhikarnwal/Abhikarnwal/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.jpg"   />
   
@@ -6,7 +6,7 @@
 # 💫 About Me:
  Hi,  I'm a passionate full stack developer with expertise in  React, Redux, MongoDB, Express, Node.js, and more.<br> I'm committed to building innovative solutions that positively impact people's lives. <br> As a developer, I believe in the power of collaboration and open-source software. <br> I'm always eager to contribute to exciting projects, learn new technologies, and share my knowledge with others. <br> I'm a strong communicator and a team player who values transparency, empathy, and respect.<br><br>
  
-  <img align="right" src="https://github.com/Abhikarnwal/Abhikarnwal/blob/main/screen%20open%20(1).gif" height="400" width="400" />
+  <img align="right" src="https://github.com/Abhikarnwal/Abhikarnwal/blob/main/screen%20open%20(1).gif" height="400" width="350" />
  
  💼 My Portfolio https://abhinav-karnwal-portfolio.netlify.app/<br><br>🔭 I’m currently working on Full Stack Project<br><br>👯 I’m looking to collaborate on Front-End and Back-End Project<br><br>🤝 I’m available for freelancing.<br><br>🌱 I’m currently learning MERN & Data Structure and Algorithms<br><br>💬 Ask me about JavaScript and MERN Stack<br><br>⚡ Fun fact: The first computer mouse was made out of wood? <br>  In 1964, Douglas Engelbart invented the first prototype of the computer mouse, <br>  which was made out of wood and had two wheels.<br>
   
